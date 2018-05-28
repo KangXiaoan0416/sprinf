@@ -10,4 +10,5 @@
     <bean id="helloWorldService" class="com.xiaoan.bean.hello.HelloWordService">
         <property name="helloWorld" ref="strutsHelloWorld"/>
     </bean>
+    <bean id="customerService" class="test.customer.CustomerService" scope="prototype"/>
 </beans>

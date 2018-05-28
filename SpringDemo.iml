@@ -6,6 +6,9 @@
         <fileset id="fileset" name="Beans" removed="false">
           <file>file://$MODULE_DIR$/src/main/beans.xml</file>
         </fileset>
+        <fileset id="fileset2" name="Custormer" removed="false">
+          <file>file://$MODULE_DIR$/src/custormer.xml</file>
+        </fileset>
       </configuration>
     </facet>
   </component>
